@@ -1,0 +1,1 @@
+import{_ as t,c as i,o as n,a4 as e}from"./chunks/framework.B5RDkS33.js";const k=JSON.parse('{"title":"c++","description":"","frontmatter":{},"headers":[],"relativePath":"blog/cindex.md","filePath":"blog/cindex.md"}'),l={name:"blog/cindex.md"},s=e("",13),c=[s];function a(d,p,h,o,r,g){return n(),i("div",null,c)}const E=t(l,[["render",a]]);export{k as __pageData,E as default};

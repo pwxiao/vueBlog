@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,a4 as p}from"./chunks/framework.B5RDkS33.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"blog/adbcodes.md","filePath":"blog/adbcodes.md"}'),l={name:"blog/adbcodes.md"},e=p("",2),c=[e];function i(t,o,d,b,r,m){return n(),a("div",null,c)}const g=s(l,[["render",i]]);export{_ as __pageData,g as default};
