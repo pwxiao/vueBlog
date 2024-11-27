@@ -1,1 +1,0 @@
-import{_ as a,c as e,o as t,a4 as o}from"./chunks/framework.B5RDkS33.js";const u=JSON.parse('{"title":"小工具上线","description":"","frontmatter":{},"headers":[],"relativePath":"blog/2023814.md","filePath":"blog/2023814.md"}'),r={name:"blog/2023814.md"},l=o("",9),n=[l];function i(s,h,p,_,c,d){return t(),e("div",null,n)}const f=a(r,[["render",i]]);export{u as __pageData,f as default};
